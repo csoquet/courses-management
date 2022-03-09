@@ -3,11 +3,9 @@ package fr.idmc.sid.coursesmanagement.entity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
-import net.minidev.json.annotate.JsonIgnore;
 
-import javax.persistence.*;
-import java.util.Collection;
-import java.util.Set;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 
 @Data
 @Entity

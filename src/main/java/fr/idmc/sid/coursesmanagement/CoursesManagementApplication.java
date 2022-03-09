@@ -11,7 +11,6 @@ import org.springframework.context.annotation.Bean;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Set;
 
 @SpringBootApplication
 public class CoursesManagementApplication {
