@@ -1,5 +1,7 @@
 # courses-management
 
+Par Chloé Soquet
+
 User story : 
 
 As a student 
